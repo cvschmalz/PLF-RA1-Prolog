@@ -7,4 +7,4 @@ Disciplina: Programação Lógica e Funcional
 Professor: Frank Coelho de Alcantara
 
 
-Alunos: Cecília Lucchesi Mardegan (usuário: ), Christine von Schmalz (usuário: cvschmalz), Erick Maestri de Souza (usuário: ErickMS18)
+Alunos: Cecília Lucchesi Mardegan (usuário: ceciLcchM), Christine von Schmalz (usuário: cvschmalz), Erick Maestri de Souza (usuário: ErickMS18)
