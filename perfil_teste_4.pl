@@ -16,4 +16,3 @@ resposta(14, n).
 resposta(15, n).
 resposta(16, n).
 resposta(17, n).
-resposta(17, n).
