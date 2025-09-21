@@ -1,3 +1,9 @@
+% Tenta carregar a base_conhecimento.pl se ela existe (para o modo teste rodar no SWI-Prolog)
+% No SWISH é só copiar e colar o conteúdo de base_conhecimento, e essa parte vai ser pulada
+:- if(exists_file('base_conhecimento.pl')).
+:- consult('base_conhecimento.pl').
+:- endif.
+
 % formato de respostas:
 % resposta(IdPergunta, s/n).
 
