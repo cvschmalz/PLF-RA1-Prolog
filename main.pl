@@ -143,16 +143,24 @@ perfil_teste(3, [
     resposta(16,n), resposta(17,n)
 ]).
 
-% Perfil 4: Redes e Infraestrutura
+% Perfil 4: Ciência de Dados
 perfil_teste(4, [
+    resposta(1,s), resposta(2,s), resposta(3,s), resposta(4,n), resposta(5,s),
+    resposta(6,n), resposta(7,n), resposta(8,n), resposta(9,n), resposta(10,n),
+    resposta(11,n), resposta(12,n), resposta(13,s), resposta(14,n), resposta(15,n),
+    resposta(16,n), resposta(17,n)
+]).
+
+% Perfil 5: Redes e Infraestrutura
+perfil_teste(5, [
     resposta(1,n), resposta(2,n), resposta(3,n), resposta(4,n), resposta(5,n),
     resposta(6,n), resposta(7,n), resposta(8,n), resposta(9,s), resposta(10,n),
     resposta(11,s), resposta(12,s), resposta(13,n), resposta(14,s), resposta(15,s),
     resposta(16,n), resposta(17,n)
 ]).
 
-% Perfil 5: Pesquisador Científico
-perfil_teste(5, [
+% Perfil 6: Pesquisador Científico
+perfil_teste(6, [
     resposta(1,n), resposta(2,n), resposta(3,n), resposta(4,s), resposta(5,n),
     resposta(6,n), resposta(7,n), resposta(8,n), resposta(9,s), resposta(10,n),
     resposta(11,n), resposta(12,n), resposta(13,n), resposta(14,s), resposta(15,n),
